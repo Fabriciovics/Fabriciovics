@@ -1,4 +1,4 @@
-## Olá! Bem-vindo ao meu espaço de aprendizado Java! 👋☕
+## Olá! Bem-vindo!! 👋☕
 
 Este é um cantinho onde compartilho minha jornada de descoberta e prática no mundo da programação Java. 💻 Aqui você encontrará projetos simples 🧩, exercícios 💪 e anotações 📝 que refletem meu progresso e os desafios que estou superando.
 
