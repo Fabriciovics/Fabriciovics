@@ -24,4 +24,4 @@ Paralelamente ao Bootcamp, participo do desenvolvimento de um projeto web 🌐 e
 
 ### Estatísticas 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciovics&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriciovics&show_icons=true&theme=tokyonight)
